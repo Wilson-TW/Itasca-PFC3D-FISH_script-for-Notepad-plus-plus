@@ -21,5 +21,10 @@ Now! you can also have syntax highlight, autocomplete and function list like oth
 ### step 4. enjoy it !!
 
 ![image](https://github.com/Wilson-TW/photo/blob/main/step4.PNG)
-    
-    
+
+## 2. Autocomplete
+
+### step 1. find 'fish.xml' file in Fish_script\autoCompletion, then copy it to Notepad++\autoCompletion
+
+### step 2. enjoy it !!
+![image](https://github.com/Wilson-TW/photo/blob/main/gif1.gif)
