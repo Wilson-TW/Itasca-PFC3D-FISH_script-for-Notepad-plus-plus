@@ -1,6 +1,6 @@
 # Itasca-PFC3D-FISH_script-for-Notepad-plus-plus
 
-This project is for PFC3D_6.0_versio FISH_script in Notepad++.
+This project is for PFC3D_6.0 FISH_script in Notepad++.
 
 Now! you can also have syntax highlight, autocomplete and function list like other language in Notepad++.
 
