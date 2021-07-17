@@ -8,18 +8,18 @@ Now! you can also have syntax highlight, autocomplete and function list like oth
 
 ### step 1. Download this project,then open 'Notepad++.exe' find Language-> User Defined Language-> Defined your language...
 
-![image](step1.png)
+![image](https://github.com/Wilson-TW/photo/blob/main/step1.png)
     
 ### step 2. click 'Import...' and open 'PFC3D_FISH_script.xml'. 
 
-![image](step2.PNG)
+![image](https://github.com/Wilson-TW/photo/blob/main/step2.PNG)
     
 ### step 3. close and restart 'Notepad++.exe' find Language-> User Defined Language-> 'FISH'. 
 
-![image](step3.PNG)
+![image](https://github.com/Wilson-TW/photo/blob/main/step3.PNG)
     
 ### step 4. enjoy it !!
 
-![image](step4.PNG)
+![image](https://github.com/Wilson-TW/photo/blob/main/step4.PNG)
     
     
