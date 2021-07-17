@@ -8,7 +8,7 @@
 
     step 1. Download this project,then open 'Notepad++.exe' find Language-> User Defined Language-> Defined your language...
     
-    ![image](https://github.com/Wilson-TW/Itasca-PFC3D-FISH_script-for-Notepad-plus-plus/blob/main/picture/step1.PNG)
+    ![image](https://github.com/Wilson-TW/Itasca-PFC3D-FISH_script-for-Notepad-plus-plus/blob/main/step1.png)
     
     step 2. click 'Import...' and open 'PFC3D_FISH_script.xml'. 
     
