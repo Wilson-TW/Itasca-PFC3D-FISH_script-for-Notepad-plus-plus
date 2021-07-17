@@ -22,7 +22,7 @@ Now! you can also have syntax highlight, autocomplete and function list like oth
 
 ![image](https://github.com/Wilson-TW/photo/blob/main/step4.PNG)
 
-## 2. Autocomplete
+## 2. Autocomplete and call tip
 
 ### step 1. find 'fish.xml' file in Fish_script\autoCompletion, then copy it to Notepad++\autoCompletion
 
