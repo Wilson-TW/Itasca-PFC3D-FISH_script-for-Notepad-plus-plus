@@ -22,7 +22,7 @@
 		following Param tag specifies a parameter, they must be in order. The name attributes specifies
 		the parameter name.
 		-->		
-		<<!-- ball-utilities function key word-->
+		<!-- ball-utilities function key word-->
 		<KeyWord name="ball.energy" func = "yes">
 			<Overload retVal = ""  descr = "Get the ball total energy contribution.">
 				<Param name="STR" />
