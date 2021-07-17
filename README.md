@@ -28,3 +28,10 @@ Now! you can also have syntax highlight, autocomplete and function list like oth
 
 ### step 2. enjoy it !!
 ![image](https://github.com/Wilson-TW/photo/blob/main/gif1.gif)
+
+## 3. function list
+
+### step 1. find 'fish.xml' file in Fish_script\functionList, then copy it to Notepad++\functionList
+
+### step 2. enjoy it !!
+![image](https://github.com/Wilson-TW/photo/blob/main/gif2.gif)
