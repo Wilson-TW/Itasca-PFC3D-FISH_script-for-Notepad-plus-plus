@@ -4,7 +4,7 @@ This project is for PFC3D_6.0 FISH_script in Notepad++.
 
 Notepad++ is a powerful text editor, it support many programming language(like python,C++,C,html,xml etc...) for syntax highlight and autocomplete .
 
-Now! you can also using Fish_script like other language in Notepad++.
+Now! you can also using Fish_script like other programming language in Notepad++.
 
 ## 1. Syntax highlight
 
