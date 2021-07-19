@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- ==========================================================================\
-|
+|(def|fish define)\x20.+
 |   To learn how to make your own language parser, please check the following
 |   link:
 |       https://npp-user-manual.org/docs/function-list/
-|
+|^def\x20\K.+?(?=\s)
 \=========================================================================== -->
 <NotepadPlus>
 	<functionList>
@@ -16,7 +16,7 @@
 			commentExpr="(?s:'''.*?''')|(?m-s:#.*?$)"
 		>
 			<function
-				mainExpr="^def\x20\K.+?(?=\s)"
+				mainExpr = "(def|fish define)\x20\K.+?((?=\n)|(?=\;))"
 			>
 				<functionName>
 					<nameExpr expr=".*" />
