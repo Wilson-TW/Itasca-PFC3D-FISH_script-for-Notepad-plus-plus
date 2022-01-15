@@ -8,7 +8,7 @@ Now! you can also using Fish_script like other programming language in Notepad++
 
 ## 1. Syntax highlight
 
-### step 1. Download this project,then open 'Notepad++.exe' find Language-> User Defined Language-> Defined your language...
+### step 1. Download this project,then start 'Notepad++.exe' find Language-> User Defined Language-> Defined your language...
 
 ![image](https://github.com/Wilson-TW/photo/blob/main/step1.png)
     
