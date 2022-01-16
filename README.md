@@ -35,5 +35,7 @@ Now! you can also using Fish_script like other programming language in Notepad++
 
 ### step 1. find 'fish.xml' file in Fish_script\functionList, then copy it to Notepad++\functionList
 
-### step 2. enjoy it !!
+### step 2. open 'overrideMap.xml' file and add '<association userDefinedLangName="FISH" id="fish.xml"/>' in User Defined Languages section
+
+### step 3. enjoy it !!
 ![image](https://github.com/Wilson-TW/photo/blob/main/gif2.gif)
