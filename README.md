@@ -22,7 +22,7 @@ Now! you can also using Fish_script like other programming language in Notepad++
     
 ### step 4. enjoy it !!
 
-![image](https://github.com/Wilson-TW/photo/blob/main/step4.PNG)
+![image](https://github.com/Wilson-TW/photo/blob/main/step4.png)
 
 ## 2. Autocomplete and call tip
 
